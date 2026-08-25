@@ -1,0 +1,1 @@
+# International Institution of Intelligent Engineering\n\nOfficial multilingual institutional website.\n\nLanguages: English, Chinese, French, German and Korean.\n\n## Local preview\n\nServe this directory with any static HTTP server and open `index.html`.\n
