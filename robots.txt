@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\nSitemap: https://thomaschoo2011-bot.github.io/IIIE/sitemap.xml\n
